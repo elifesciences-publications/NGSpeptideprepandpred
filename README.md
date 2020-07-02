@@ -1,3 +1,5 @@
+This code is associated with the paper from Mendoza et al., "Recognition landscape interrogation of a conserved HIV specific TCR reveals distinct bacterial peptide cross-reactivity". eLife, 2020. http://doi.org/10.7554/eLife.58128
+
 # NGSpeptideprepandpred
 scripts for processing NGC data for TCR recognition of peptide sequences and prediction
   List of Programs for Deep sequencing
