@@ -1,3 +1,7 @@
+This code is associated with the paper from Fernandes et al., "Discovery of surrogate agonists for
+visceral fat Treg cells that modulate
+metabolic indices in vivo". eLife, 2020. http://doi.org/10.7554/eLife.58463
+
 This code is associated with the paper from Mendoza et al., "Recognition landscape interrogation of a conserved HIV specific TCR reveals distinct bacterial peptide cross-reactivity". eLife, 2020. http://doi.org/10.7554/eLife.58128
 
 # NGSpeptideprepandpred
